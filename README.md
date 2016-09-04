@@ -12,7 +12,7 @@ $ sudo npm install
 $ npm init
 ```
 
-fix https://github.com/npm/npm/issues/775#issuecomment-50301534
+fix for Windows 7 https://github.com/npm/npm/issues/775#issuecomment-50301534
 ```bash
 $ mkdir -p ~/codecourse/ball && cd ~/codecourse/ball 
 $ ln -s /vagrant/codecourse/ball/package.json
