@@ -4,7 +4,9 @@
 
 ```bash
 $ sudo npm install
+$ node server
 ```
+Go to http://server-ip-address:3000/
 
 ## Dev
 
