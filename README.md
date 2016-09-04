@@ -1,4 +1,4 @@
-# cco-ball
+# cco-ballcontrolapp
 
 ## Installation
 
